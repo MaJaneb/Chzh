@@ -10,6 +10,12 @@ def is_prime(n: int) -> bool:
     True
     >>> is_prime(11)
     True
+    True
+    >>> is_prime(11)
+    True
+    >>> is_prime(8)
+    False
+    """
     >>> is_prime(8)
     False
     """
