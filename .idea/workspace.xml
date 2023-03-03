@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da740f5-1860-40de-abf7-50d471a55ded" name="Changes" comment="" />
+    <list default="true" id="6da740f5-1860-40de-abf7-50d471a55ded" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Chzh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Chzh.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RunManager">
@@ -55,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673966086235</updated>
       <workItem from="1673966089728" duration="35000" />
+      <workItem from="1677852194112" duration="494000" />
     </task>
     <servers />
   </component>
