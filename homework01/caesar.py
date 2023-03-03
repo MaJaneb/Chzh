@@ -39,17 +39,14 @@ def decrypt_caesar(ciphertext: str, shift: int = 3) -> str:
     >>> decrypt_caesar("")
     ''
     """
-    plaintext = "" 
-    for i in ciphertext:
-        if i.isalpha():
-            if i.isupper():
-                code_i = 25 - ord(i) + ord("A")
-                plaintext += chr(25 - (code_i + shift) % 26 + ord("A"))
-            else:
-                code_i = 25 - ord(i) + ord("a")
-                plaintext += chr(25 - (code_i + shift) % 26 + ord("a"))
+    plaintext = ""
+    for i in range(len(ciphertext)):
+        if 65 <= ord(ciphertext[i]) and ord(ciphertext[i]) <= 90:
+            plaintext = plaintext + chr((ord(ciphertext[i]) - 65 - shift) % 26 + 65)
+        elif 97 <= ord(ciphertext[i]) and ord(ciphertext[i]) <= 122:
+            plaintext = plaintext + chr((ord(ciphertext[i]) - 97 - shift) % 26 + 97)
         else:
-            plaintext += i
+            plaintext = plaintext + ciphertext[i]
     return plaintext
 
 
