@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7812a4-25fa-44a8-b657-46fbae713915" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../homework02/hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework02/hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework02/hard1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework02/hard1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework02/hard2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../homework02/hard2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework02/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework02/sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework02/sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework03/life_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework03/life_console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework03/life_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework03/life_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework03/life_proto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework03/life_proto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/porcelain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/porcelain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/refs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/refs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework04/pyvcs/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework04/pyvcs/tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/research/age.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/research/age.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/research/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/research/network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/research/topic_modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/research/topic_modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/tests/tests_api/test_friends.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/tests/tests_api/test_friends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/tests/tests_api/test_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/tests/tests_api/test_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/tests/tests_api/test_wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/tests/tests_api/test_wall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/tests/tests_research/test_age.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/tests/tests_research/test_age.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/tests/tests_research/test_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/tests/tests_research/test_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/vkapi/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/vkapi/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/vkapi/friends.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/vkapi/friends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/vkapi/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/vkapi/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework05/vkapi/wall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../homework05/vkapi/wall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackernews.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackernews.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraputils.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraputils.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPtIjhPEnnpTMCB6y2Vb9EIvw1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Валерий/OneDrive/Документы/GitHub/rasslabsya/homework04"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7812a4-25fa-44a8-b657-46fbae713915" name="Changes" comment="" />
+      <created>1673887967693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673887967693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
