@@ -39,7 +39,7 @@ def decrypt_caesar(ciphertext: str, shift: int = 3) -> str:
     >>> decrypt_caesar("")
     ''
     """
-    plaintext = ""
+    plaintext = "" 
     for i in ciphertext:
         if i.isalpha():
             if i.isupper():
